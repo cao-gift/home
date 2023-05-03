@@ -46,12 +46,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://120707.xyz/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://cloud.120707.xyz/",
   },
   {
     icon: CompactDisc,
@@ -60,18 +60,18 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "图床",
+    link: "https://p.120707.xyz/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://xydh.fun/hyjsdh",
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "网站监测",
+    link: "https://uptime.nhsojs.repl.co/status/1",
   },
 ];
 
