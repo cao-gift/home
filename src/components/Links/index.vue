@@ -49,14 +49,14 @@ let linksData = [
     link: "https://120707.xyz/",
   },
   {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://cloud.120707.xyz/",
+    icon: CompactDisc,
+    name: "备用",
+    link: "https://jxyz.ml",
   },
   {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    icon: Cloud,
+    name: "网盘",
+    link: "https://cjwcloud-3514088137.b4a.run/",
   },
   {
     icon: Compass,
